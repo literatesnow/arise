@@ -161,9 +161,9 @@ typedef BOOL (WINAPI *ANIWIN)(HWND, DWORD, DWORD);
 
 typedef struct
 {
-	DWORD mVersion;
-	HWND mHwnd;
-	BOOL mKeep;
+  DWORD mVersion;
+  HWND mHwnd;
+  BOOL mKeep;
 } LOADINFO;
 
 typedef struct item_s

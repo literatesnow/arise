@@ -1446,7 +1446,7 @@ void rectcpy(RECT *dst, RECT *src)
 }
 
 #ifdef _VERBOSE
-/*	$OpenBSD: strlcat.c and strlcpy.c,v 1.11 2003/06/17 21:56:24 millert Exp $
+/*  $OpenBSD: strlcat.c and strlcpy.c,v 1.11 2003/06/17 21:56:24 millert Exp $
  *
  * Copyright (c) 1998 Todd C. Miller <Todd.Miller@courtesan.com>
  *
