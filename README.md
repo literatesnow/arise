@@ -11,9 +11,9 @@ mIRC it includes exports to be used in other situations.
 
 Version|Date|Download
 ---|---|---
-v1.1|20th January 2005|
-v1.2|8th February 2005|
 v2.0|22nd April 2006|[win32 i386](https://www.nisda.net/files/arise-v2.0.zip)
+v1.2|8th February 2005|
+v1.1|20th January 2005|
 
 ## Source
 
