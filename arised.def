@@ -1,0 +1,11 @@
+LIBRARY arise
+DESCRIPTION "Arise"
+EXPORTS  
+  LoadDll @1
+  UnloadDll @2
+  ShowPopup @3
+  Version @4
+  Arise @5
+
+  Debug @8
+  ThreadWait @9
